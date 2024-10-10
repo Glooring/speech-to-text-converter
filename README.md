@@ -4,6 +4,9 @@
 
 **Speech-to-Text Converter** is a Python-based tool that converts speech from MP3 audio files into text using OpenAI's Whisper model. It provides highly accurate transcriptions for multiple languages. The user-friendly graphical interface is built using `Tkinter`, allowing seamless file selection and processing. This tool is designed to handle large audio files by breaking them into chunks, processing them in the background without freezing the interface, and delivering the final transcription as a text file.
 
+You can also run this project in Google Colab using the following link:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zxyA4tE676tsd3_4uAxYiCmTSkhHTHib?usp=sharing)
 ---
 
 ## Features
