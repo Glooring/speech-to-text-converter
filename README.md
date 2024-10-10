@@ -107,13 +107,13 @@ This will launch the GUI, and you can start interacting with the Speech-to-Text 
     - When transcription is complete, the tool will notify you with a success message. You can choose to open the folder where the `.txt` file is saved.
 
 - **Screenshot Example**:
-  <img src="screenshots/speech_to_text.png" alt="Speech to Text" width="400">
+  <img src="screenshots/speech_to_text.png" width="400">
 
 4. **Opening the File Location**:
     - After the transcription finishes, the tool will offer to open the folder where the transcript was saved.
 
 - **Screenshot Example (Notification)**:
-  <img src="screenshots/transcription_complete.png" alt="Notification" width="300">
+  <img src="screenshots/transcription_complete.png" width="300">
 
 ---
 
