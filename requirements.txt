@@ -1,0 +1,6 @@
+torch==2.3.0+cu118
+whisper==20231117
+tqdm==4.66.4
+numpy==1.26.4
+pydub==0.25.1
+mutagen==1.47.0
